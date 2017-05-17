@@ -1,0 +1,11 @@
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe.config
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.csprojResolveAssemblyReference.cache
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.Properties.Resources.resources
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.csproj.GenerateResource.Cache
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.pdb
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.pdb
+c:\users\ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmYeniMusteri.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmAdminGiris.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmAnaForm.resources

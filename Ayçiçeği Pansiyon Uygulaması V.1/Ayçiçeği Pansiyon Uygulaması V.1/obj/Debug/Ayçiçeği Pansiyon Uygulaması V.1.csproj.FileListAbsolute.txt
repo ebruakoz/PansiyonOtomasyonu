@@ -1,0 +1,24 @@
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe.config
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.pdb
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.exe
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.pdb
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ayçiçeği Pansiyon Uygulaması V.1.csprojResolveAssemblyReference.cache
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmAdminGiris.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmAnaForm.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmYeniMusteri.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.Properties.Resources.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ayçiçeği Pansiyon Uygulaması V.1.csproj.GenerateResource.Cache
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmOdalar.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmMusteriler.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmGelirGider.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmStoklar.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ayçiçeği Pansiyon Uygulaması V.1.csproj.ResolveComReference.cache
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmRadyoDinle.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmGazeteler.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmSifreGuncelle.resources
+C:\Users\Ebru\documents\visual studio 2015\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmMesajlar.resources
